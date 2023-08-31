@@ -2,12 +2,15 @@
 ## 整理http常见面试题
 
 # HTTP 基本概念
-HTTP 是什么？
+## HTTP 是什么？
+```
 HTTP 是超文本传输协议，也就是HyperText Transfer Protocol。
 HTTP 的名字「超文本协议传输」，它可以拆成三个部分：
 超文本
 传输
 协议
+```
+
 
 1. 「协议」
 
