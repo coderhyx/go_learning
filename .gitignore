@@ -17,7 +17,7 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
-
+.DS_Store
 # Dependency directories (remove the comment below to include it)
 # 如果使用go vendor 进行构建代码
 # go.mod
