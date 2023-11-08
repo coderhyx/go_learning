@@ -1,7 +1,11 @@
 package main
 
 func main() {
-	//arr := [5]int{1, 2, 3, 4, 5}
+	arr := []int{1, 2, 3, 4, 5}
+	for i, i2 := range arr {
+		//arr[i] = i2 + 1
+		i2 = i2 + 1
+	}
 	//s1 := arr[1:3:3]
 	//fmt.Println(cap(s1), len(s1))
 	//s2 := s1[1:2:2]
